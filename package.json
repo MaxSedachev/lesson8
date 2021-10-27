@@ -18,5 +18,9 @@
   "homepage": "https://github.com/MaxSedachev/lesson8#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
   }
 }
