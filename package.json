@@ -1,0 +1,19 @@
+{
+  "name": "lesson8",
+  "version": "1.0.0",
+  "description": "Example of env setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxSedachev/lesson8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxSedachev/lesson8/issues"
+  },
+  "homepage": "https://github.com/MaxSedachev/lesson8#readme"
+}
